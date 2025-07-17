@@ -1,0 +1,2 @@
+# Only needed if using OpenAI API later
+# openai>=1.0.0
