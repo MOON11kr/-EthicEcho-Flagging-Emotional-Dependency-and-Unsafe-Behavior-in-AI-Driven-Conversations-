@@ -1,6 +1,6 @@
 # Ethical AI Emotional Dependency Flagger 🤖🧠
 
-This project is a prototype chatbot designed to simulate ethical responses and flag risky emotional content. It helps identify signs of emotional dependency, crisis behavior, and manipulative language in a safe and educational way.
+This project is a prototype chatbot designed to simulate ethical responses and flag risky emotional content. It helps identify signs of emotional dependency, crisis behavior, and manipulative language in a safe and educational way based on reseach done by Karishma M Patel.
 
 ---
 
